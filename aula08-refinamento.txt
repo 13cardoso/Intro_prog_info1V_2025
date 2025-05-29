@@ -1,1 +1,16 @@
+SOMA ENTRE [A] E [B]
+1- Leia dois números inteiros [a] e [b]
+2- Calcule a [subtração] entre [a] - [b]
+3- Mostre o [resultado]
+
+MULTIPLICAÇÃO ENTRE [A] E [B]
+1- Leia dois números inteiros [a] e [b]
+2- Calcule o [produto] entre [a] x [b]
+3- Mostre o [produto] de [a] x [b]
+
+DIVISÃO ENTRE [A] E [B]
+1- Leia dois números inteiros [a] e [b]
+2- Calcule o [quociente] entre [a] / [b]
+3- Mostre o [quociente] 
+
 
