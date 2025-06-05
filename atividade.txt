@@ -1,0 +1,25 @@
+Soma de dois números 
+1- Leia dois números inteiros [a] e [b]
+2- Calcule a [subtração] entre [a] - [b]
+3- Mostre o [resultado]
+
+Média aritmética de três números
+1- Pegue 3 números inteiros [n1] [n2] e [n3].
+2-Some tudo [n1] + [n2] + [n3] e chame isso de [soma].
+3-Divida pela quantidade: Pegue a [soma] e divida por quantos números você somou.
+4-Mostre o meio termo: Esse é o [resultado] da média.
+
+Área de um retângulo
+1-Pegue o comprimento: Chamaremos ele de [base].
+2-Pegue a largura: Chamaremos ela de [altura].
+3-Multiplique os dois [base] x [altura].
+4-Mostre o espaço coberto: Esse é o [resultado] da área.
+
+ Área de um triângulo
+1- Pegue a base: Chamaremos ela de [base]
+2.**Pegue a altura:** Chamaremos ela de **\[altura]**.
+3.  **Multiplique os dois:** Faça **\[base] vezes \[altura]**.
+4.  **Divida por dois:** Pegue o resultado da multiplicação e divida por **2**.
+5.  **Mostre o espaço coberto:** Esse é o **\[resultado]** da área.
+
+---
