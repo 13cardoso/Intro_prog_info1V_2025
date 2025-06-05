@@ -1,25 +1,118 @@
-Soma de dois números 
-1- Leia dois números inteiros [a] e [b]
-2- Calcule a [subtração] entre [a] - [b]
-3- Mostre o [resultado]
+1-SOMA DE DOIS NÚMEROS
+1.Leia os numeros [a] e [b]
+2.calcule a [soma] = [a] + [b]
+3.exibir [soma]
 
-Média aritmética de três números
-1- Pegue 3 números inteiros [n1] [n2] e [n3].
-2-Some tudo [n1] + [n2] + [n3] e chame isso de [soma].
-3-Divida pela quantidade: Pegue a [soma] e divida por quantos números você somou.
-4-Mostre o meio termo: Esse é o [resultado] da média.
+2-MÉDIA ARITMÉTICA DE TRES NUMEROS
+1.leia os números [a];[b] e [c]
+2.calcule a [soma] = [a]+[b]+[c]
+3.calcule a [divisão] da [soma] por [tres]
+4.exibir [divisão]
 
-Área de um retângulo
-1-Pegue o comprimento: Chamaremos ele de [base].
-2-Pegue a largura: Chamaremos ela de [altura].
-3-Multiplique os dois [base] x [altura].
-4-Mostre o espaço coberto: Esse é o [resultado] da área.
+3-AREA DE UM RETANGULO
+1.leia a base [a] e a altura [b]
+2.calcule o [produto] = [a] x [b]
+3.exibir [produto]
 
- Área de um triângulo
-1- Pegue a base: Chamaremos ela de [base]
-2.**Pegue a altura:** Chamaremos ela de **\[altura]**.
-3.  **Multiplique os dois:** Faça **\[base] vezes \[altura]**.
-4.  **Divida por dois:** Pegue o resultado da multiplicação e divida por **2**.
-5.  **Mostre o espaço coberto:** Esse é o **\[resultado]** da área.
+4-AREA DE UM TRIANGULO
+1.leia a base [b] e a altura [a]
+2.calcule o [produto] = [a] x [b]
+3.calcule a [divisao]] = [produto de a e b] \ 2 
+4.exibir [divisão]
 
----
+5-CONVERSÃO DE TEMPERATURA
+1.leia a temperatura [a]
+2.efetue o [produto]=9x[a]
+3.exibir [produto]
+4.efetue [soma]=[produto]+160
+5.exibir [soma]
+6.efetue [divisão]=[soma]\5
+7.exibir [divsão]
+
+6-MEDIA PONDERADA DE TRES NOTAS
+1.leia as notas [a];[b] e [c] e seus respectivos pesos [e];[f] e [g]
+2.efetue o [produto] = [a]x[e] ; [b]x[f] e [c]x[g]
+3.efetue a [soma] = [produto de [a]x[e]] + [produto de [b]x[f] + [produto de [c]x[g]
+4.exibir [soma]
+5.efetua a [divisao]=[soma] \ [soma]=[e]+[f]+[g]
+6.exibir [divisão]
+
+7-VALOR DO VOLUME DE UMA CAIXA RETANGULAR
+1.Leia o comprimento [a]; a altura [b] e a largura [c]
+2.efetue o [produto]=[a]x[b]x[c]
+3.mostrar [produto]
+
+8-VALOR TOTAL DA COMPRA
+1.Leia o valor do produto [a]; do pruduto [b] e do produto [c]
+2.efetue [soma]=[a]+[b]+[c]
+3.Exibir [soma]
+
+9-TEMPO TOTAL DE UMA VIAGEM
+1.Leia o tempo gasto em horas [a] e a velocidade média [b]
+2.efetue [pruduto]=[a]x[b]
+3.exibir [produto]
+4.efetue [divisao] = [produto] \ 60
+5.exibir [divisão]
+
+10-CONVERSÃO DE DIAS EM HORAS
+1.Leia o numero de dias [a]
+2.Efetue [produto] = [a]x24
+3.exibir [produto]
+
+11-CONVERSÃO DE MINUTOS EM SEGUNDOS 
+1.Leia o numero de minutos [a]
+2.Efetue [produto] = [a] x 60
+3.exibir [produto]
+
+12-CÁLCULO DO NOVO SALÁRIO
+1.Leia o valor do salario [a] e o valor do aumento [b]
+2.efetue [soma]=[a]+[b]
+3.exibir [soma] 
+
+13-CALCULO DE JUROS SIMPLES
+1.Leia o valor do capital [a]; do tempo em meses [b] e da taxa mensal [c]
+2.Efetue [produto]=[a]x[b]x[c]
+3.exibir [produto1]
+4.efetue [produto]=[a]x[produto1]
+5.exibir [produto]
+
+14-TROCO DE UMA COMPRA 
+1.Leia o valor da compra [a] e o valor pago [b]
+2.Efetue [diferença] = [a]-[b]
+3.Exibir [diferença]
+
+15-CALCULO DO IMC
+1.Leia o numero de kilos [a] e o numero da altua [b]
+2.efetue o produto [b]x[b]
+3.exibir [produto]
+4.efetue [divisão]=[a]\[produto]
+5.exibir [divisão]
+
+16-PERIMETRO DE UM CIRCULO
+1.Leia o valor do raio [a] 
+2.Efetue o [produto]= 2x[a]x3,14
+3.exibir [produto]
+
+17-DIFERENÇA DE IDADES 
+1.Leia o numero da idade [a] e da idade [b]
+2.Efetue [diferença]=[a] - [b]
+3.Exibir [diferença]
+
+18-MÉDIA DE CONSUMO DE COMBUSTIVEL
+1.Leia o valor da distancia percorrida [a] e o total de combustive gasto  [b]
+2.efetue [divisão]=[a]\[b]
+3.exibir [divisao]
+
+19-VALOR A PAGAR EM CONTA DIVIDIDA
+1.Leia o valor total da conta [a] e o numero de pessoas [b]
+2.efetue [divisao] = [a]\[b]
+3.exibir [divisao]
+
+20-CALCULO DE DESCONTO
+1.Leia o preço anunciado [a] e o numero de desconto [b]
+2.efetue [produto]=[a]x[b]
+3.exibir [produto]
+4.efetue [divisao] = [produto]\100
+5.exibir [divisao]
+6.efetue [diferença]=[a]-[divisao]
+7.Exibir [diferença]
